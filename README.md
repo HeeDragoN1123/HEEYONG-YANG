@@ -7,4 +7,4 @@
 
 <div align=center><h1>🔩Tech Stack</h1></div>
 <div align=center> 
-<a href="링크"><img src="https://img.shields.io/badge/#fff?style=flat-square&logo=로고이름&logoColor=#F7DF1E"/></a>
+ <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
